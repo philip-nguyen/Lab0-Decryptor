@@ -1,0 +1,8 @@
+#ignore files
+/Debug
+/.vs
+
+*.vcxproj
+*.vcxproj.*
+*.sln
+*.bin
